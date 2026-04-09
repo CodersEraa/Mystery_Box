@@ -4,7 +4,7 @@
 https://official-joke-api.appspot.com/random_joke
 
 ## Quotes API
-https://api.quotable.io/random
+https://dummyjson.com/quotes/random
 
 ## Weather API
 https://wttr.in/?format=3
