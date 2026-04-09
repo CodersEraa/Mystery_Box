@@ -14,3 +14,4 @@
 
 ## 💡 Tip
 If API is hard, simulate data manually
+You may use any API from this repo in any theme if it improves creativity.
